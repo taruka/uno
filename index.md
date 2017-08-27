@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## WELCOME TO THE WORLD OF TOMORROW
 
-You can use the [editor on GitHub](https://github.com/taruka/uno/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Try my game on Scratch [THE GAME](https://scratch.mit.edu/projects/108922465/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
